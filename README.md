@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Britneyngo-o
-- 👀 I’m interested in Dancing
-- 🌱 I’m currently learning Computantion Model 
-- 💞️ I’m looking to collaborate on My fellow classmates
+- 👋 Hi, I’m @Britneyngo
+- 👀 I’m interested in learning how to use Git
+- 🌱 I’m currently learning Computational Model 
+- 💞️ I’m looking to collaborate on my project with my fellow classmates
 - 📫 How to reach me Email: Bngo1@uco.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I know 50 numbers of Pie
